@@ -1,0 +1,2 @@
+WIP Durumu: Faz 1-4 tamamlandı. Frame extraction, Whisper audio matching ve SQLite db kayıtları stabil çalışıyor.
+Sonraki Adım: Yeni cihazda Ollama güncel sürüm kurulacak, llava modeli pull edilecek ve worker.py'nin VLM aşaması test edilecek.
